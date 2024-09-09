@@ -19,7 +19,9 @@
  <img src="https://stackjava.com/wp-content/uploads/2018/05/swagger-icon.png" title="Swagger" alt="Swagger" width="45" height="45"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="45" height="45"/>&nbsp;
+ <img src="https://img.icons8.com/color/48/redis--v1.png" title="Redis" alt="Redis" width="45" height="45"/>&nbsp;
+ <img src="https://img.icons8.com/nolan/64/apache-kafka.png" title="Kafka" alt="Kafka" width="45" height="45"/>&nbsp;
 </div>
 
 ### Contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27a0d9)](https://t.me/badratdinova_kate)
+[![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:ekaterina.badratdinova@gmail.com)
