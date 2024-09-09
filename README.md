@@ -5,9 +5,9 @@
 ## Work with:
  
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;
   <img src="https://courses.javacodegeeks.com/wp-content/uploads/2021/03/hibernate-logo-2048x2048.jpg" title="Hibernate" alt="Hibernate" width="45" height="45"/>&nbsp;
   <img src="http://www.universidadejava.com.br/images/teaser-jpa.png" title="JPA" alt="JPA " width="70" height="48"/>&nbsp;
   <img src="https://tse3.mm.bing.net/th?id=OIP.Is1rWyzkw16wMQEC_rXoVwHaEN&pid=15.1" title="JUnit" alt="JUnit"width="57" height="30"/>&nbsp;
